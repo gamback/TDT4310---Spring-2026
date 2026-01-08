@@ -1,4 +1,4 @@
-## `TDT4310 - Intelligent Text Analytics and Language Understanding - Spring 2026`
+## `TDT4310 - Intelligent Text Analytics and Language Understanding - 2026`
 
 Throughout this course, we will explore many aspects of natural language processing, starting with the very latest developments within language models - specifically *large* language models. From there on, we go back to learn more fundamental topics such as part-of-speech tagging, grammars, dependency parsing and tasks like sentiment analysis and topic modeling.
 
